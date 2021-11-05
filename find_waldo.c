@@ -1,14 +1,3 @@
-/*
-Student name: Samuel Beaudoin
-Student number: 040999682
-Assignment number: Lab3 Find waldo game
-Course name and number: CST8234 C language
-Lab section number: 011
-Professor's name: Gerald Hurdle
-Due date of assignment: 18th of June / Demo 15st of June
-Submission date of assignment: 15th of June
-purpose: lab3 to learn how to play with arrays
-*/
 
 /****************************************************************************************************************
  * Declare include files
